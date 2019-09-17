@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Decisions\bin\Debug\netcoreapp2.2\Decisions.deps.json
+C:\Users\brian\Documents\NMAD180\Decisions\bin\Debug\netcoreapp2.2\Decisions.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Decisions\bin\Debug\netcoreapp2.2\Decisions.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Decisions\bin\Debug\netcoreapp2.2\Decisions.dll
+C:\Users\brian\Documents\NMAD180\Decisions\bin\Debug\netcoreapp2.2\Decisions.pdb
+C:\Users\brian\Documents\NMAD180\Decisions\obj\Debug\netcoreapp2.2\Decisions.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Decisions\obj\Debug\netcoreapp2.2\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Decisions\obj\Debug\netcoreapp2.2\Decisions.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Decisions\obj\Debug\netcoreapp2.2\Decisions.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Decisions\obj\Debug\netcoreapp2.2\Decisions.dll
+C:\Users\brian\Documents\NMAD180\Decisions\obj\Debug\netcoreapp2.2\Decisions.pdb

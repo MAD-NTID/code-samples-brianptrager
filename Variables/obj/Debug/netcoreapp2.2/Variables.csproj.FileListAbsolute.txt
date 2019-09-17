@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Variables\bin\Debug\netcoreapp2.2\Variables.deps.json
+C:\Users\brian\Documents\NMAD180\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Variables\bin\Debug\netcoreapp2.2\Variables.dll
+C:\Users\brian\Documents\NMAD180\Variables\bin\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\brian\Documents\NMAD180\Variables\obj\Debug\netcoreapp2.2\Variables.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Variables\obj\Debug\netcoreapp2.2\Variables.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Variables\obj\Debug\netcoreapp2.2\Variables.dll
+C:\Users\brian\Documents\NMAD180\Variables\obj\Debug\netcoreapp2.2\Variables.pdb

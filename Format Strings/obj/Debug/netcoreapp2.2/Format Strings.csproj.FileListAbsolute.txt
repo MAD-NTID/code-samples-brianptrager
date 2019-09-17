@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Format Strings\bin\Debug\netcoreapp2.2\Format Strings.deps.json
+C:\Users\brian\Documents\NMAD180\Format Strings\bin\Debug\netcoreapp2.2\Format Strings.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Format Strings\bin\Debug\netcoreapp2.2\Format Strings.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Format Strings\bin\Debug\netcoreapp2.2\Format Strings.dll
+C:\Users\brian\Documents\NMAD180\Format Strings\bin\Debug\netcoreapp2.2\Format Strings.pdb
+C:\Users\brian\Documents\NMAD180\Format Strings\obj\Debug\netcoreapp2.2\Format Strings.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Format Strings\obj\Debug\netcoreapp2.2\Format Strings.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Format Strings\obj\Debug\netcoreapp2.2\Format Strings.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Format Strings\obj\Debug\netcoreapp2.2\Format Strings.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Format Strings\obj\Debug\netcoreapp2.2\Format Strings.dll
+C:\Users\brian\Documents\NMAD180\Format Strings\obj\Debug\netcoreapp2.2\Format Strings.pdb

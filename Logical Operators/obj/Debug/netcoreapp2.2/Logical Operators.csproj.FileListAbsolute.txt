@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Logical Operators\bin\Debug\netcoreapp2.2\Logical Operators.deps.json
+C:\Users\brian\Documents\NMAD180\Logical Operators\bin\Debug\netcoreapp2.2\Logical Operators.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Logical Operators\bin\Debug\netcoreapp2.2\Logical Operators.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Logical Operators\bin\Debug\netcoreapp2.2\Logical Operators.dll
+C:\Users\brian\Documents\NMAD180\Logical Operators\bin\Debug\netcoreapp2.2\Logical Operators.pdb
+C:\Users\brian\Documents\NMAD180\Logical Operators\obj\Debug\netcoreapp2.2\Logical Operators.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Logical Operators\obj\Debug\netcoreapp2.2\Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Logical Operators\obj\Debug\netcoreapp2.2\Logical Operators.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Logical Operators\obj\Debug\netcoreapp2.2\Logical Operators.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Logical Operators\obj\Debug\netcoreapp2.2\Logical Operators.dll
+C:\Users\brian\Documents\NMAD180\Logical Operators\obj\Debug\netcoreapp2.2\Logical Operators.pdb
