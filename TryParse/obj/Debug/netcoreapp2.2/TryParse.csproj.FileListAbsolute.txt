@@ -9,3 +9,14 @@ C:\Users\brian\Documents\NMAD180\TryParse\obj\Debug\netcoreapp2.2\TryParse.Assem
 C:\Users\brian\Documents\NMAD180\TryParse\obj\Debug\netcoreapp2.2\TryParse.AssemblyInfo.cs
 C:\Users\brian\Documents\NMAD180\TryParse\obj\Debug\netcoreapp2.2\TryParse.dll
 C:\Users\brian\Documents\NMAD180\TryParse\obj\Debug\netcoreapp2.2\TryParse.pdb
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\bin\Debug\netcoreapp2.2\TryParse.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\bin\Debug\netcoreapp2.2\TryParse.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\bin\Debug\netcoreapp2.2\TryParse.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\bin\Debug\netcoreapp2.2\TryParse.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\bin\Debug\netcoreapp2.2\TryParse.pdb
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\obj\Debug\netcoreapp2.2\TryParse.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\obj\Debug\netcoreapp2.2\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\obj\Debug\netcoreapp2.2\TryParse.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\obj\Debug\netcoreapp2.2\TryParse.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\obj\Debug\netcoreapp2.2\TryParse.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\TryParse\obj\Debug\netcoreapp2.2\TryParse.pdb

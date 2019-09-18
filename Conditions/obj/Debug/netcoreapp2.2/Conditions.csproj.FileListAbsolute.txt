@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\bin\Debug\netcoreapp2.2\Conditions.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\bin\Debug\netcoreapp2.2\Conditions.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\bin\Debug\netcoreapp2.2\Conditions.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\bin\Debug\netcoreapp2.2\Conditions.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\bin\Debug\netcoreapp2.2\Conditions.pdb
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\obj\Debug\netcoreapp2.2\Conditions.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\obj\Debug\netcoreapp2.2\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\obj\Debug\netcoreapp2.2\Conditions.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\obj\Debug\netcoreapp2.2\Conditions.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\obj\Debug\netcoreapp2.2\Conditions.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\Conditions\obj\Debug\netcoreapp2.2\Conditions.pdb

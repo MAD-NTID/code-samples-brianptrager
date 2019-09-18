@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\Documents\\NMAD180\\Code Samples\\TryParse\\TryParse.csproj",
-      "projectName": "TryParse",
-      "projectPath": "C:\\Users\\brian\\Documents\\NMAD180\\Code Samples\\TryParse\\TryParse.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\Documents\\NMAD180\\Code Samples\\TestDebug\\TestDebug.csproj",
+      "projectName": "TestDebug",
+      "projectPath": "C:\\Users\\brian\\Documents\\NMAD180\\Code Samples\\TestDebug\\TestDebug.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brian\\Documents\\NMAD180\\Code Samples\\TryParse\\obj\\",
+      "outputPath": "C:\\Users\\brian\\Documents\\NMAD180\\Code Samples\\TestDebug\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
