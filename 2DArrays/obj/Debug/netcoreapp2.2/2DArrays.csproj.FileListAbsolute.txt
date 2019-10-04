@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\bin\Debug\netcoreapp2.2\2DArrays.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\bin\Debug\netcoreapp2.2\2DArrays.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\bin\Debug\netcoreapp2.2\2DArrays.runtimeconfig.dev.json
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\bin\Debug\netcoreapp2.2\2DArrays.dll
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\bin\Debug\netcoreapp2.2\2DArrays.pdb
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\obj\Debug\netcoreapp2.2\2DArrays.csprojAssemblyReference.cache
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\obj\Debug\netcoreapp2.2\2DArrays.csproj.CoreCompileInputs.cache
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\obj\Debug\netcoreapp2.2\2DArrays.AssemblyInfoInputs.cache
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\obj\Debug\netcoreapp2.2\2DArrays.AssemblyInfo.cs
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\obj\Debug\netcoreapp2.2\2DArrays.dll
+c:\Users\brian\Documents\NMAD180\Code Samples\2DArrays\obj\Debug\netcoreapp2.2\2DArrays.pdb
