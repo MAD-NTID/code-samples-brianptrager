@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\bin\Debug\netcoreapp2.2\MoreArrayLove.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\bin\Debug\netcoreapp2.2\MoreArrayLove.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\bin\Debug\netcoreapp2.2\MoreArrayLove.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\bin\Debug\netcoreapp2.2\MoreArrayLove.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\bin\Debug\netcoreapp2.2\MoreArrayLove.pdb
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\obj\Debug\netcoreapp2.2\MoreArrayLove.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\obj\Debug\netcoreapp2.2\MoreArrayLove.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\obj\Debug\netcoreapp2.2\MoreArrayLove.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\obj\Debug\netcoreapp2.2\MoreArrayLove.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\obj\Debug\netcoreapp2.2\MoreArrayLove.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\MoreArrayLove\obj\Debug\netcoreapp2.2\MoreArrayLove.pdb

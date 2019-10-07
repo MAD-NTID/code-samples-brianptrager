@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\bin\Debug\netcoreapp2.2\inventory.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\bin\Debug\netcoreapp2.2\inventory.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\bin\Debug\netcoreapp2.2\inventory.runtimeconfig.dev.json
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\bin\Debug\netcoreapp2.2\inventory.dll
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\bin\Debug\netcoreapp2.2\inventory.pdb
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\obj\Debug\netcoreapp2.2\inventory.csprojAssemblyReference.cache
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\obj\Debug\netcoreapp2.2\inventory.csproj.CoreCompileInputs.cache
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\obj\Debug\netcoreapp2.2\inventory.AssemblyInfoInputs.cache
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\obj\Debug\netcoreapp2.2\inventory.AssemblyInfo.cs
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\obj\Debug\netcoreapp2.2\inventory.dll
+c:\Users\brian\Documents\NMAD180\Code Samples\Exam1\Inventory\obj\Debug\netcoreapp2.2\inventory.pdb

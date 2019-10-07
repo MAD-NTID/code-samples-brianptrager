@@ -1,0 +1,161 @@
+Comments: // Single line ..... /* Multi-line */
+Header comments - Name, Date, Purpose, Caveats
+
+Data Types
+===========================================================
+string => alphanumeric (defaults to "")
+int (32-bit) => 2 billion to -2 billion (defaults to 0)
+double (64-bit) => fractional value (defaults to 0.0)
+decimal (128-bit) => fractional value with bigger range than double (more precise)
+bool => true or false (defaults to false)
+char => single character (defaults to '')
+
+More: https://is.gd/data_types
+
+Data Type Conversions
+===========================================================
+Implicit conversion - smaller type to larger type without data loss, "upcasting"
+Explicit conversion - require developer intervention, possibilty of data loss, "downcasting"
+
+Casting numbers:
+int myInteger = (int)myDouble; //explicit conversion 
+
+Numbers to strings:
+Console.WriteLine("The number is " + myInteger);
+string myString = myInteger.ToString();
+
+String to Numbers:
+int myInteger = int.Parse(myString);
+double myDouble = double.Parse(myString);
+
+More: https://is.gd/datatype_conversion
+
+Arithmetic Operators
+===========================================================
+= NOT equality, it's assignment
+
+Math Operators: + - * / %
+
+Addition assignment
+total = total + 5;
+total += 5;
+
+Increment Operator: myInteger++;
+Decrement Operator: myInteger--;
+
+Beware of order of precedence (use paranthesis)
+Beware of downcasting (you'll lose precision)
+Beware of overflow (use bigger types)
+
+C# Syntax
+===========================================================
+Operands - variable names, literals = "Nouns" (you name these)
+Operators - "Verbs"...they act on the Operands
+
+More: https://is.gd/operators
+
+Expressions - One or more operands and zero or more operators that evaluate to 
+a single value
+
+int myInteger; //One operand, no operator, single value of 0
+int myInteger = 10; //Two operands, one operator, single value of 10
+myInteger * myDouble; //Two operands, one operator, one single value
+
+More: https://is.gd/expressions
+
+Statements - A complete instruction - assignment of an expression to a variable,
+an increment/decrement, etc.
+
+double myTotal = myInteger * myDouble;
+
+More: https://is.gd/statement
+
+Whitespace is ignored (use for humans)
+
+Conditional if.... else if..... else Statements
+==================================================================
+= Assignment
+== Equality 
+
+if(a == b)
+{
+    //execute when the expression is true
+}
+else
+{
+    //executes when the expression is false
+}
+
+....or...evaluate other mutually exclusively options:
+
+if(a == b) { //some code }
+else if(a == c) { //some code }
+else if(a == d) { //some code }
+else{ //catch all }
+
+Conditional Ternary Operator
+==================================================================
+Shortcut for evaluating an expression and returning a result.
+
+result = (a == b) ? "Equal" : "Not Equal";
+
+Comparison and Logical Operators
+==================================================================
+Comparison Operators - used for conditional Statements
+== - equals to
+!= - NOT equal to
+< > - less than, greater than
+<= >= - less than or equal to, greater than or equal to
+!someBooleanValue = means NOT is true (negates the result)
+
+&& - AND 
+|| - OR 
+
+Combine with paranthesis () for order of precedence
+
+Working with Dates and Times
+===================================================================
+
+Creating new DateTime objects
+DateTime myDateTime = DateTime.Now;
+DateTime myDateTime = DateTime(2017, 11, 16);  //November 16, 2017 12:00:00AM
+
+Formatting ... many options:
+myDateTime.To________();
+
+Retrieving Parts:
+myDateTime.Year //int
+myDateTime.Hour //int
+myDateTime.DayOfWeek // "Monday"
+myDateTime.DayOfYear // int 175
+
+DateTime Math:
+myDateTime.AddHours(3);
+myDateTime.AddMinute(-5);
+
+"Chaining" = using multiple helper methods together with the dot . operator
+myDateTime.AddHours(3).AddMinute(-5).ToLongTimeString();
+
+Working with Spans of Times
+====================================================================
+Create and initalize new TimeSpans
+
+//Days.Hours:Minutes:Seconds.Milliseconds
+TimeSpan myTimeSpan = TimeSpan.Parse("1.2:3:30.5");
+
+DateTime myBirthday = DateTime.Parse("07/21/1993");
+TimeSpan myAge = DateTime.Now.Subtract(myBirthday);
+
+More information at https://is.gd/timespan
+
+Get individual Parts
+myAge.Hours;
+myAge.Seconds;
+
+OR get TOTAL elapsed time as a double representing both the number of
+days / hours / etc. AND fractional values representing "left overs".
+
+myTimeSpan.TotalDays //double 175.14
+myTimeSpan.TotalHours //double
+
+int days = (int)myTimeSpan.TotalDays; //175

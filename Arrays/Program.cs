@@ -20,14 +20,20 @@ namespace Arrays
 
             Console.WriteLine("Total of all values: " + total);
 
-            string[] heroes = new string[60];
+            /*string[] heroes = new string[60];
 
             heroes[0] = "Spiderman";
             heroes[1] = "Cyclops";
             heroes[2] = "Batman";
             heroes[3] = "Iron Man";
             heroes[4] = "Superman";
-            heroes[5] = "Black Panther";
+            heroes[5] = "Black Panther";*/
+
+            string[] heroes = new string[] {"Spiderman", "Cyclops", "Batman", "Iron Man", "Superman", "Black Panther", "Wonder Woman"};
+
+           // Array.Sort(heroes);
+
+            Array.Reverse(heroes);
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write($"\n\nChoose a number (1 - {heroes.Length}): ");
@@ -36,9 +42,10 @@ namespace Arrays
 
             if(selection >= 1 && selection <= heroes.Length)
             {
-                if(heroes[selection] != null)
+                //selection--;
+                if(heroes[--selection] != null)
                 {
-                    Console.WriteLine("Hero of the day: " + heroes[--selection]);
+                    Console.WriteLine($"Hero of the day: {heroes[selection]} \n{DateTime.Now.ToLongDateString()}\t{DateTime.Now.ToShortTimeString()}");
                 }
                 else
                 {

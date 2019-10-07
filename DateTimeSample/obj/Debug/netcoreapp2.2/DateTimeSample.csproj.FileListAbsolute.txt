@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\bin\Debug\netcoreapp2.2\DateTimeSample.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\bin\Debug\netcoreapp2.2\DateTimeSample.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\bin\Debug\netcoreapp2.2\DateTimeSample.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\bin\Debug\netcoreapp2.2\DateTimeSample.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\bin\Debug\netcoreapp2.2\DateTimeSample.pdb
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\obj\Debug\netcoreapp2.2\DateTimeSample.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\obj\Debug\netcoreapp2.2\DateTimeSample.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\obj\Debug\netcoreapp2.2\DateTimeSample.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\obj\Debug\netcoreapp2.2\DateTimeSample.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\obj\Debug\netcoreapp2.2\DateTimeSample.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\DateTimeSample\obj\Debug\netcoreapp2.2\DateTimeSample.pdb
