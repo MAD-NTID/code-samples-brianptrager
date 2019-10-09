@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\bin\Debug\netcoreapp2.2\For Loops and Arrays.deps.json
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\bin\Debug\netcoreapp2.2\For Loops and Arrays.runtimeconfig.json
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\bin\Debug\netcoreapp2.2\For Loops and Arrays.runtimeconfig.dev.json
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\bin\Debug\netcoreapp2.2\For Loops and Arrays.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\bin\Debug\netcoreapp2.2\For Loops and Arrays.pdb
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\obj\Debug\netcoreapp2.2\For Loops and Arrays.csprojAssemblyReference.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\obj\Debug\netcoreapp2.2\For Loops and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\obj\Debug\netcoreapp2.2\For Loops and Arrays.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\obj\Debug\netcoreapp2.2\For Loops and Arrays.AssemblyInfo.cs
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\obj\Debug\netcoreapp2.2\For Loops and Arrays.dll
+C:\Users\brian\Documents\NMAD180\Code Samples\For Loops and Arrays\obj\Debug\netcoreapp2.2\For Loops and Arrays.pdb
