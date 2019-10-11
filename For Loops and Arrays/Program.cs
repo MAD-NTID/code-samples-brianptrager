@@ -39,14 +39,15 @@ namespace For_Loops_and_Arrays
 
             string[] superheroes = {"Superman", "Batman", "Wonder Woman", "Aquaman", "Cyborg", "Flash", "Green Lantern", "Shazam"};
             Array.Sort(superheroes);
-            Array.Reverse(superheroes);
+            //Array.Reverse(superheroes);
             for(int i = 0; i < superheroes.Length; i++)
             {
-                if(superheroes[i] == "Shazam")
+                if(superheroes[i] == "Batman")
                 {
                     Console.WriteLine($"{superheroes[i]} exists.  It is located in index {i}.");
+                    //continue;
                 }
-               // Console.WriteLine(superheroes[i]);
+                Console.WriteLine(superheroes[i]);
             }
 
             /*
