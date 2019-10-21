@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\ICE 17\bin\Debug\netcoreapp3.0\ICE 17.exe
+C:\Users\bptnbs\Documents\ICE 17\bin\Debug\netcoreapp3.0\ICE 17.deps.json
+C:\Users\bptnbs\Documents\ICE 17\bin\Debug\netcoreapp3.0\ICE 17.runtimeconfig.json
+C:\Users\bptnbs\Documents\ICE 17\bin\Debug\netcoreapp3.0\ICE 17.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\ICE 17\bin\Debug\netcoreapp3.0\ICE 17.dll
+C:\Users\bptnbs\Documents\ICE 17\bin\Debug\netcoreapp3.0\ICE 17.pdb
+C:\Users\bptnbs\Documents\ICE 17\obj\Debug\netcoreapp3.0\ICE 17.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\ICE 17\obj\Debug\netcoreapp3.0\ICE 17.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\ICE 17\obj\Debug\netcoreapp3.0\ICE 17.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\ICE 17\obj\Debug\netcoreapp3.0\ICE 17.dll
+C:\Users\bptnbs\Documents\ICE 17\obj\Debug\netcoreapp3.0\ICE 17.pdb

@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Methods II\bin\Debug\netcoreapp3.0\Methods II.exe
+C:\Users\bptnbs\Documents\Methods II\bin\Debug\netcoreapp3.0\Methods II.deps.json
+C:\Users\bptnbs\Documents\Methods II\bin\Debug\netcoreapp3.0\Methods II.runtimeconfig.json
+C:\Users\bptnbs\Documents\Methods II\bin\Debug\netcoreapp3.0\Methods II.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Methods II\bin\Debug\netcoreapp3.0\Methods II.dll
+C:\Users\bptnbs\Documents\Methods II\bin\Debug\netcoreapp3.0\Methods II.pdb
+C:\Users\bptnbs\Documents\Methods II\obj\Debug\netcoreapp3.0\Methods II.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Methods II\obj\Debug\netcoreapp3.0\Methods II.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Methods II\obj\Debug\netcoreapp3.0\Methods II.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Methods II\obj\Debug\netcoreapp3.0\Methods II.dll
+C:\Users\bptnbs\Documents\Methods II\obj\Debug\netcoreapp3.0\Methods II.pdb
