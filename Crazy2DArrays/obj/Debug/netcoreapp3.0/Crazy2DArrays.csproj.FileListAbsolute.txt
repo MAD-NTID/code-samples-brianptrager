@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Crazy2DArrays\bin\Debug\netcoreapp3.0\Crazy2DArrays.exe
+C:\Users\bptnbs\Documents\Crazy2DArrays\bin\Debug\netcoreapp3.0\Crazy2DArrays.deps.json
+C:\Users\bptnbs\Documents\Crazy2DArrays\bin\Debug\netcoreapp3.0\Crazy2DArrays.runtimeconfig.json
+C:\Users\bptnbs\Documents\Crazy2DArrays\bin\Debug\netcoreapp3.0\Crazy2DArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Crazy2DArrays\bin\Debug\netcoreapp3.0\Crazy2DArrays.dll
+C:\Users\bptnbs\Documents\Crazy2DArrays\bin\Debug\netcoreapp3.0\Crazy2DArrays.pdb
+C:\Users\bptnbs\Documents\Crazy2DArrays\obj\Debug\netcoreapp3.0\Crazy2DArrays.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Crazy2DArrays\obj\Debug\netcoreapp3.0\Crazy2DArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Crazy2DArrays\obj\Debug\netcoreapp3.0\Crazy2DArrays.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Crazy2DArrays\obj\Debug\netcoreapp3.0\Crazy2DArrays.dll
+C:\Users\bptnbs\Documents\Crazy2DArrays\obj\Debug\netcoreapp3.0\Crazy2DArrays.pdb
