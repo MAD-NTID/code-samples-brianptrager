@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Objects and Classes\bin\Debug\netcoreapp3.0\Objects and Classes.exe
+C:\Users\bptnbs\Documents\Objects and Classes\bin\Debug\netcoreapp3.0\Objects and Classes.deps.json
+C:\Users\bptnbs\Documents\Objects and Classes\bin\Debug\netcoreapp3.0\Objects and Classes.runtimeconfig.json
+C:\Users\bptnbs\Documents\Objects and Classes\bin\Debug\netcoreapp3.0\Objects and Classes.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Objects and Classes\bin\Debug\netcoreapp3.0\Objects and Classes.dll
+C:\Users\bptnbs\Documents\Objects and Classes\bin\Debug\netcoreapp3.0\Objects and Classes.pdb
+C:\Users\bptnbs\Documents\Objects and Classes\obj\Debug\netcoreapp3.0\Objects and Classes.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Objects and Classes\obj\Debug\netcoreapp3.0\Objects and Classes.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Objects and Classes\obj\Debug\netcoreapp3.0\Objects and Classes.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Objects and Classes\obj\Debug\netcoreapp3.0\Objects and Classes.dll
+C:\Users\bptnbs\Documents\Objects and Classes\obj\Debug\netcoreapp3.0\Objects and Classes.pdb
