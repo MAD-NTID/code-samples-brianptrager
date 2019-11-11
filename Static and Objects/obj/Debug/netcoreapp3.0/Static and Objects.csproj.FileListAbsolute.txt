@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Static and Objects\bin\Debug\netcoreapp3.0\Static and Objects.exe
+C:\Users\bptnbs\Documents\Static and Objects\bin\Debug\netcoreapp3.0\Static and Objects.deps.json
+C:\Users\bptnbs\Documents\Static and Objects\bin\Debug\netcoreapp3.0\Static and Objects.runtimeconfig.json
+C:\Users\bptnbs\Documents\Static and Objects\bin\Debug\netcoreapp3.0\Static and Objects.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Static and Objects\bin\Debug\netcoreapp3.0\Static and Objects.dll
+C:\Users\bptnbs\Documents\Static and Objects\bin\Debug\netcoreapp3.0\Static and Objects.pdb
+C:\Users\bptnbs\Documents\Static and Objects\obj\Debug\netcoreapp3.0\Static and Objects.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Static and Objects\obj\Debug\netcoreapp3.0\Static and Objects.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Static and Objects\obj\Debug\netcoreapp3.0\Static and Objects.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Static and Objects\obj\Debug\netcoreapp3.0\Static and Objects.dll
+C:\Users\bptnbs\Documents\Static and Objects\obj\Debug\netcoreapp3.0\Static and Objects.pdb
