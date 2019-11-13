@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Snowing Cats and Dogs/1.0.0": {
+        "runtime": {
+          "Snowing Cats and Dogs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snowing Cats and Dogs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

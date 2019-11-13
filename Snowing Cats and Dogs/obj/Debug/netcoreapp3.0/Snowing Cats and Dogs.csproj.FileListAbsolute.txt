@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\bin\Debug\netcoreapp3.0\Snowing Cats and Dogs.exe
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\bin\Debug\netcoreapp3.0\Snowing Cats and Dogs.deps.json
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\bin\Debug\netcoreapp3.0\Snowing Cats and Dogs.runtimeconfig.json
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\bin\Debug\netcoreapp3.0\Snowing Cats and Dogs.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\bin\Debug\netcoreapp3.0\Snowing Cats and Dogs.dll
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\bin\Debug\netcoreapp3.0\Snowing Cats and Dogs.pdb
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\obj\Debug\netcoreapp3.0\Snowing Cats and Dogs.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\obj\Debug\netcoreapp3.0\Snowing Cats and Dogs.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\obj\Debug\netcoreapp3.0\Snowing Cats and Dogs.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\obj\Debug\netcoreapp3.0\Snowing Cats and Dogs.dll
+C:\Users\bptnbs\Documents\Snowing Cats and Dogs\obj\Debug\netcoreapp3.0\Snowing Cats and Dogs.pdb
