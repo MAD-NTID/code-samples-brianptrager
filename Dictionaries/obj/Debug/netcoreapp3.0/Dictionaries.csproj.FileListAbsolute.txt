@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Dictionaries\bin\Debug\netcoreapp3.0\Dictionaries.exe
+C:\Users\bptnbs\Documents\Dictionaries\bin\Debug\netcoreapp3.0\Dictionaries.deps.json
+C:\Users\bptnbs\Documents\Dictionaries\bin\Debug\netcoreapp3.0\Dictionaries.runtimeconfig.json
+C:\Users\bptnbs\Documents\Dictionaries\bin\Debug\netcoreapp3.0\Dictionaries.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Dictionaries\bin\Debug\netcoreapp3.0\Dictionaries.dll
+C:\Users\bptnbs\Documents\Dictionaries\bin\Debug\netcoreapp3.0\Dictionaries.pdb
+C:\Users\bptnbs\Documents\Dictionaries\obj\Debug\netcoreapp3.0\Dictionaries.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Dictionaries\obj\Debug\netcoreapp3.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Dictionaries\obj\Debug\netcoreapp3.0\Dictionaries.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Dictionaries\obj\Debug\netcoreapp3.0\Dictionaries.dll
+C:\Users\bptnbs\Documents\Dictionaries\obj\Debug\netcoreapp3.0\Dictionaries.pdb
