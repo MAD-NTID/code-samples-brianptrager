@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Structs\bin\Debug\netcoreapp3.0\Structs.exe
+C:\Users\bptnbs\Documents\Structs\bin\Debug\netcoreapp3.0\Structs.deps.json
+C:\Users\bptnbs\Documents\Structs\bin\Debug\netcoreapp3.0\Structs.runtimeconfig.json
+C:\Users\bptnbs\Documents\Structs\bin\Debug\netcoreapp3.0\Structs.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Structs\bin\Debug\netcoreapp3.0\Structs.dll
+C:\Users\bptnbs\Documents\Structs\bin\Debug\netcoreapp3.0\Structs.pdb
+C:\Users\bptnbs\Documents\Structs\obj\Debug\netcoreapp3.0\Structs.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Structs\obj\Debug\netcoreapp3.0\Structs.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Structs\obj\Debug\netcoreapp3.0\Structs.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Structs\obj\Debug\netcoreapp3.0\Structs.dll
+C:\Users\bptnbs\Documents\Structs\obj\Debug\netcoreapp3.0\Structs.pdb
