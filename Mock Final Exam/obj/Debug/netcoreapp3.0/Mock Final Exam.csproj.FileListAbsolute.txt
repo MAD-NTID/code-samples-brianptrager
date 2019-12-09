@@ -1,0 +1,11 @@
+C:\Users\bptnbs\Documents\Mock Final Exam\bin\Debug\netcoreapp3.0\Mock Final Exam.exe
+C:\Users\bptnbs\Documents\Mock Final Exam\bin\Debug\netcoreapp3.0\Mock Final Exam.deps.json
+C:\Users\bptnbs\Documents\Mock Final Exam\bin\Debug\netcoreapp3.0\Mock Final Exam.runtimeconfig.json
+C:\Users\bptnbs\Documents\Mock Final Exam\bin\Debug\netcoreapp3.0\Mock Final Exam.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\Mock Final Exam\bin\Debug\netcoreapp3.0\Mock Final Exam.dll
+C:\Users\bptnbs\Documents\Mock Final Exam\bin\Debug\netcoreapp3.0\Mock Final Exam.pdb
+C:\Users\bptnbs\Documents\Mock Final Exam\obj\Debug\netcoreapp3.0\Mock Final Exam.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\Mock Final Exam\obj\Debug\netcoreapp3.0\Mock Final Exam.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\Mock Final Exam\obj\Debug\netcoreapp3.0\Mock Final Exam.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\Mock Final Exam\obj\Debug\netcoreapp3.0\Mock Final Exam.dll
+C:\Users\bptnbs\Documents\Mock Final Exam\obj\Debug\netcoreapp3.0\Mock Final Exam.pdb
